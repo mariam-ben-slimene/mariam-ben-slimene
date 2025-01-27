@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mariam Ben Slimene</h1>
+<h1 align="center">Hi 👋, I'm Mariem Ben Slimene</h1>
 <h3 align="center">Crafting Digital Solutions with Code.</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+Hello! I'm a passionate and innovative engineer with a strong focus on AI, embedded electronics, and problem-solving. My experience spans across various domains, including machine learning, IoT, and hardware-software integration. I thrive on tackling complex challenges and continuously seek to expand my skills in real-world applications.
 
 - 📫 How to reach me **meryembenslimene@gmail.com**
 
